@@ -9,7 +9,7 @@
 - ⚡ Fun fact: *I run a YouTube Channel*
 
 ## About Me
-First introduced to the world of technology at the age of 10 when I had my first computer, but I was first introduced to the passion of Software Development when I fell in love with video games and it was from there that I decided to develop software that acts as a mediator between a computer and human in the form of a program(Solution).
+I have been an Android Developer for the past 3 Years(+), developing flexible and detail-oriented Applications for the Android Platform(Mobile and IoT), Conceptualizing application solutions with the latest technologies, design theory, and a large dose of creativity. I am committed to viable and easily functional app solutions. I develop Android Native software that interacts with android and other IOT devices with POS devices and Bluetooth-connected devices as examples.
 
 
 ## 🌐 Socials:
