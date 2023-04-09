@@ -8,6 +8,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: *I run a YouTube Channel*
 
+## About Me
+First introduced to the world of technology at the age of 10 when I had my first computer, but I was first introduced to the passion of Software Development when I fell in love with video games and it was from there that I decided to develop software that acts as a mediator between a computer and human in the form of a program(Solution).
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/luku-geraud) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@lukugeraud) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@lukugeraud97) 
 
