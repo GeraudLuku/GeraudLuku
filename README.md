@@ -6,7 +6,8 @@
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **lukugeraud97@gmail.com**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: *I run a YouTube Channel*
+
+## Subscribe to my Channel [![DevWithGeraud](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@lukugeraud97).
 
 ## About Me
 I have been an Android Developer for the past 3 Years(+), developing flexible and detail-oriented Applications for the Android Platform(Mobile and IoT), Conceptualizing application solutions with the latest technologies, design theory, and a large dose of creativity. I am committed to viable and easily functional app solutions. I develop Android Native software that interacts with android and other IOT devices with POS devices and Bluetooth-connected devices as examples.
